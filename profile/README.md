@@ -1,3 +1,3 @@
 # Blockburst Studio
 
-Nous créons des jeux sur Roblox.
+We make Roblox games.
